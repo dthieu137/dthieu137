@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nuxtjs, Nextjs and relevant SSR frameworks**
 
-- 📫 How to reach me **dthieu13701@gmail.com**
+- 📫 How to reach me: Kindly send an email to **dthieu13701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
